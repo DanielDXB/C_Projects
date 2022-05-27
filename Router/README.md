@@ -1,6 +1,6 @@
 # Router
 
-### Bolontoc Daniel
+### Daniel Bolontoc &copy; 2022
 
 Protocoale de comunicare
 <li>
