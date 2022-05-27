@@ -1,6 +1,6 @@
 # Linux OS
 
-### Daniel Bolontoc
+### Daniel Bolontoc &copy; 2022
 
 "Dir" - directory struct <br>
 "File" - file struct <br>
